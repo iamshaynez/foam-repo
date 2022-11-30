@@ -17,8 +17,9 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "foam.edit.linkReferenceDefinitions": "off",
+  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
   "foam.openDailyNote.directory": "journal",
+  "foam.openDailyNote.filenameFormat": "'daily-note'-yyyy-mm-dd",
   "foam.openDailyNote.titleFormat": "fullDate",
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
