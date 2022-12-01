@@ -1,6 +1,6 @@
 <img src="attachments/avatar.jpg" width=100 align="left">
 
-# FOAM
+# Xiaowen.Z Knowledge Base
 
 **👋 Xiaowen.Z Knowledge base built on [Foam](https://foambubble.github.io) 基于[Foam](https://foambubble.github.io)发布的知识库文档**
 
