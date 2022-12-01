@@ -1,4 +1,4 @@
-<img src="attachments/foam-icon.png" width=100 align="left">
+<img src="attachments/avatar.jpg" width=100 align="left">
 
 # Foam
 
