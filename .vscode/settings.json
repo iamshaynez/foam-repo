@@ -21,6 +21,18 @@
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.filenameFormat": "'daily-note'-yyyy-mm-dd",
   "foam.openDailyNote.titleFormat": "fullDate",
+  "foam.graph.style": {
+    "background": "#202020",
+    "fontSize": 12,
+    "highlightedForeground": "#f9c74f",
+    "node": {
+        "note": "#277da1",
+        "placeholder": "#545454",
+        "feature": "green",
+        "saved": "yellow",
+        "post": "red",
+    }
+  },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "markdown.preview.breaks": true,

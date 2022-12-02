@@ -1,3 +1,7 @@
+---
+type: saved
+keywords: hello world
+---
 # ea-holistic-view
 
 ## What is Enterprise Architecture Governance?

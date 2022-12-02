@@ -4,6 +4,10 @@
 
 **👋 Xiaowen.Z Knowledge base built on [Foam](https://foambubble.github.io) 基于[Foam](https://foambubble.github.io)发布的知识库文档**
 
+## Where Am I
+
+- 最近正在尝试把Notion和印象笔记里的东西逐渐的转移到Foam来，但进展并不快。
+
 ## AREAS
 
 这里会保存我已经整理好的知识库，并按照我个人的习惯进行分类和命名。
@@ -17,6 +21,7 @@ The knowledge base will hold the organized information based on my personal meth
 - [[finance]]：金融从业者自然要懂一点经济学……
 - [[management]]: 企业管理，治理方法总结和收集
 - [[edu]]: 个人能力培养
+- [[misc]]: 奇怪的信息们
 
 ## LICENSE
 
