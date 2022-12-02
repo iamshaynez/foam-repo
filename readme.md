@@ -15,6 +15,8 @@ The knowledge base will hold the organized information based on my personal meth
 - [[read]]：我喜欢读书，这里是我的书摘或其他奇怪的收集。
 - [[photography]]：摄影器材党，徕卡相机持有但不用人。
 - [[finance]]：金融从业者自然要懂一点经济学……
+- [[management]]: 企业管理，治理方法总结和收集
+- [[edu]]: 个人能力培养
 
 ## LICENSE
 
