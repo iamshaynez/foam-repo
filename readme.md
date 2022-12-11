@@ -23,8 +23,10 @@ The knowledge base will hold the organized information based on my personal meth
 - [[management]]: 企业管理，治理方法总结和收集
 - [[edu]]: 个人能力培养
 - [[food]]: 留一个地方给吃货。
+- [[game]]: 谁不喜欢玩游戏啊？
 - [[travel]]: 疫情之前，我也是喜欢旅行的。
 - [[misc]]: 奇怪的信息们
+
 
 ## LICENSE
 
