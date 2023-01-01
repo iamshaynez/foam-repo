@@ -42,27 +42,27 @@
 
 ### 正菜
 
-- [[cook/recipe/炒青菜]]
-- [[cook/recipe/油焖大虾]]
-- [[cook/recipe/德国大肘子]]
-- [[cook/recipe/糖醋排骨]]
-- [[cook/recipe/青椒肉丝]]
-- [[cook/recipe/美式烤猪肋排]]
-- [[cook/recipe/酸菜肥牛]]
-- [[cook/recipe/香菜炒牛肉]]
-- [[cook/recipe/油焖茭白]]
-- [[cook/recipe/红烧猪脚]]
-- [[cook/recipe/川味烧牛腩]]
-- [[cook/recipe/生炒鸡]]
-- [[cook/recipe/醋溜白菜]]
+- [[cook/recipe/炒青菜]] 常规炒蔬菜的要点都在这了。
+- [[cook/recipe/油焖大虾]] 日常烧虾，简单实用。
+- [[cook/recipe/德国大肘子]] 稍微复杂的大菜，但是值得一学，成功率很高。
+- [[cook/recipe/糖醋排骨]] 在家里烧出非家常菜的味道，缺点的时间有点长。
+- [[cook/recipe/青椒肉丝]] 常规炒菜，百吃不厌。
+- [[cook/recipe/美式烤猪肋排]] 非常牛逼，有烤箱一定值得搞一波！
+- [[cook/recipe/酸菜肥牛]] 我不喜欢吃鱼，所以酸菜肥牛也不赖。
+- [[cook/recipe/香菜炒牛肉]] 核心竞争力。
+- [[cook/recipe/油焖茭白]] 非常简单实用！
+- [[cook/recipe/红烧猪脚]] 没有高压锅最好的烧法。
+- [[cook/recipe/川味烧牛腩]] 太好吃了……
+- [[cook/recipe/生炒鸡]] 小公鸡真好吃……
+- [[cook/recipe/醋溜白菜]] 日常蔬菜，学了不亏。
 
 ### 主食
 
-- [[cook/recipe/菜泡饭]]
+- [[cook/recipe/菜泡饭]] 浙江菜……有肉的话还是煮下面那个带劲点！
 - [[cook/recipe/番茄鸡蛋面]] 职业选手级的主打！
-- [[cook/recipe/红烧牛肉面]]
-- [[cook/recipe/生滚牛肉粥]]
-- [[cook/recipe/水蒸蛋]]
+- [[cook/recipe/红烧牛肉面]] 没啥，就是烧牛腩太好吃，下个面呗。
+- [[cook/recipe/生滚牛肉粥]] 无敌的好喝……
+- [[cook/recipe/水蒸蛋]] 0失败的要点都在里面了。
 
 ### 辅食
 
